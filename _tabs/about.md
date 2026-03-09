@@ -6,7 +6,10 @@ order: 4
 
 ## About me
 
-Soongsil University — B.S. in Software Science
+
+### Education
+
+Soongsil University — B.S. in Software Engineering  
 Mar 2023 – Feb 2027
 
 ---
@@ -14,6 +17,7 @@ Mar 2023 – Feb 2027
 ### Interests
 - Game Client / Graphics  
 - VFX
+
 ---
 
 ### Contact
