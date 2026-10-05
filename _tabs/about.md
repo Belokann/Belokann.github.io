@@ -10,13 +10,10 @@ order: 4
 ### Education
 
 Soongsil University — B.S. in Software Engineering  
-Mar 2023 – Feb 2027
 
 ---
 
 ### Interests
-- Game Client / Graphics  
-- VFX
 
 ---
 
