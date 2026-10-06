@@ -8,15 +8,11 @@ order: 4
 
 
 ### Education
-
 Soongsil University — B.S. in Computer Science
-
 ---
-
 ### Interests
 
 ---
 
 ### Contact
-
-- GitHub: https://github.com/Belokann
+- Email : Huffam2522@gmail.com
