@@ -9,7 +9,7 @@ order: 4
 
 ### Education
 
-Soongsil University — B.S. in Software Engineering  
+Soongsil University — B.S. in Computer Science
 
 ---
 
@@ -20,4 +20,3 @@ Soongsil University — B.S. in Software Engineering
 ### Contact
 
 - GitHub: https://github.com/Belokann
-- Email : Huffam2522@gmail.com
