@@ -9,7 +9,7 @@ order: 4
 
 ### Education
 Soongsil University — B.S. in Computer Science
----
+
 ### Interests
 
 ---
